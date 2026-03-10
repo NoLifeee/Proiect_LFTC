@@ -1,4 +1,5 @@
 Compilator Quick → C
+
 Implementare completa a unui compilator pentru limbajul Quick, dezvoltat ca proiect de laborator la LFTC. Compilatorul parcurge toate fazele clasice: analiza lexicala, sintactica, semantica si generare de cod.
 Features:
 
